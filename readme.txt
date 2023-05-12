@@ -22,4 +22,5 @@ Description for Lab3 -> description.pdf
 	domain design 
 	process: OK
  	figure of the domain -> design the computational domain -> domain.pdf
+	figure of the process -> design the computational domain -> process fig.pdf
 -----------
