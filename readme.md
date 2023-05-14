@@ -23,8 +23,8 @@
   4.<br>
 	The velocity of the free stream has been changed from 40m/s to 20m/s to fit the realastic case.<br>
  5.<br>
-	a more detailed computational domain has been added.
-	figure of the domain -> design the computational domain -> domain.pdf
+	a more detailed computational domain has been added.<br>
+	figure of the domain -> design the computational domain -> domain.pdf<br>
 	the first page is the 3D case, and the second page is the 2D breakdown.</font>
 
 ___
