@@ -33,7 +33,7 @@ ___
 
   <font face="times new roman"><font size=3>
     1.<br>
-	Add a schematic for the engineer problem.
+	Add a schematic for the engineer problem.<br>
 	figure of the schematic -> engineer problem -> schematic.pdf<br>
   2.<br>
 	Add some content for the report
