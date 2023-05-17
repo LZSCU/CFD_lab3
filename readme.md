@@ -57,6 +57,18 @@ conduct the grid convergence test<br>
   4.<br>
     code for lab3 -> code
 
+___
+
+### <center>17/05/2023
+
+  <font face="times new roman"><font size=3>
+    1.<br>
+    Add residual control<br>
+	residual plot -> grid convergence test -> residual control  
+  2.<br>
+	Add more content for the report including the governing equation and residual control part<br>
+
+
 
 ```python
 
