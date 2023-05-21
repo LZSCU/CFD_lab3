@@ -68,6 +68,17 @@ ___
   2.<br>
 	Add more content for the report including the governing equation and residual control part<br>
 
+___
+
+### <center>21/05/2023
+
+  <font face="times new roman"><font size=3>
+    1.<br>
+Refine the report<br> 
+  2.<br>
+	Add geometry<br>
+figure of the geometry->prepare the vehicle geometry -> geo.pdf
+
 
 
 ```python
